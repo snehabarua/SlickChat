@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434150921374",
+    "project_id": "slickchat-connect",
+    "storage_bucket": "slickchat-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434150921374:android:c2fa02fd6641904fba578f",
+        "android_client_info": {
+          "package_name": "com.example.slickchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434150921374-k27s9nq6mlpso5jg229c5lo70sho2c8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlN4Hr1wo5UtP0Zy4MUP4EgRGPVQ5mP8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434150921374-k27s9nq6mlpso5jg229c5lo70sho2c8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
